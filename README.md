@@ -2,8 +2,8 @@
 - 👀 I’m interested in aprender
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on tudo
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me +55 19 9 9437-0405
+- 😄 Pronouns: SR
 - ⚡ Fun fact: ...
 
 <!---
